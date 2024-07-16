@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [UX Pilot](https://uxpilot.ai/)
-
 - 🌱 I’m currently learning **Nest Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Faheem-khan](https://github.com/Muhammad-Faheem-khan)
